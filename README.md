@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alexandra.ciapovici@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact: **I think I am funny**
 
 <br>
 <h3 align="left">Connect with me:</h3>
