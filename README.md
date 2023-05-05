@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg?w=1800)
 <h1 align="center">Hi, I'm Alexandra 👋 </h1>
-<h3 align="center">A self-taught data analyst with a background in finance. I transitioned to data in 2022 and have been teaching myself SQL, Python, Power BI and Tableau ever since.</h3>
+<h3 align="center">A system engineer with a background in finance. I transitioned to Tech in 2022 and have been teaching myself SQL, Python, Power BI and Tableau ever since.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandraciapovici&label=Profile%20views&color=0e75b6&style=flat" alt="alexandraciapovici" /> </p>
