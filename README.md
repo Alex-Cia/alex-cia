@@ -18,9 +18,9 @@
 
 - 📝 I regularly write articles on **[womenintechspace.com](womenintechspace.com)**
 
-- 📫 How to reach me **womenintechspace@gmail.com**
+- 📫 How to reach me: **womenintechspace@gmail.com**
 
-- ⚡ Fun fact: **I think I am funny**
+- 😄 Fun fact: **I have a great sense of humor**, or at least I like to think so! 
 
 
 <br>
