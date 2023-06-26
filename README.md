@@ -3,10 +3,9 @@
 <h3 align="center">A system engineer with a background in finance. I transitioned to Tech in 2022 and have been teaching myself SQL, Python, Power BI, and Tableau ever since.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandraciapovici&label=Profile%20views&color=0e75b6&style=flat" alt="alexandraciapovici" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cia&label=Profile%20views&color=0e75b6&style=flat" alt="alex-cia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **a game based on cognitive-behavioral therapy (CBT) technique.**
 
 - 🌱 I’m currently learning **Python**
