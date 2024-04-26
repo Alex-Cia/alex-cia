@@ -3,7 +3,7 @@
 <p align="center">
   <img alt="Coding" width="200" src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif">
 </p>
-<h3 align="center"> A system engineer with a background in finance who made the transition to Tech in 2022. Since then, I have been dedicated to expanding my skill set and knowledge in various areas, including SQL, Python, Power BI, and Tableau.</h3>
+<h3 align="center"> A systems engineer with a background in finance who made the transition to Tech in 2022. Since then, I have been dedicated to expanding my skill set and knowledge in various areas, including SQL, Python, Power BI, and Tableau.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cia&label=Profile%20views&color=0e75b6&style=flat" alt="alex-cia" /> </p>
