@@ -1,33 +1,55 @@
 
-<h1 align="center" style="background-color: #F2F8F8;">Hi, I'm Alex 👋</h1>
+<h1 align="center">Hi, I'm Alex 👋</h1>
+<h3 align="center">Systems Engineer | Creative Technologist | Founder of Women in Tech Space</h3>
 <p align="center">
-  <img alt="Coding" width="200" src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif">
+  <img src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif" width="250" alt="coding gif">
 </p>
-<h3 align="center"> A systems engineer with a background in finance who made the transition to Tech in 2022. Since then, I have been dedicated to expanding my skill set and knowledge in various areas, including SQL, Python, Power BI, and Tableau.</h3>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cia&label=Profile%20views&color=0e75b6&style=flat" alt="alex-cia" /> </p>
+🚀 I made the leap from finance to tech in 2022 — driven by curiosity, creativity, and a need to build things that make a difference.  
+Today, I work as a **Systems Engineer** with a focus on **AWS, Python, Jenkins, and Infrastructure as Code**, and I’m building tools, games, and communities that reflect both **logic and heart**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **a game based on cognitive-behavioral therapy (CBT) technique.**
+### 🧠 Currently Exploring
 
-- 🌱 I’m currently learning **Python**
+- 🧩 Building a game inspired by **Cognitive Behavioral Therapy (CBT)**
+- ☁️ Preparing for **AWS Solutions Architect Associate**
+- 🧵 Growing **[Women In Tech Space](#)** – by empowering women with Knowledge, Skills, and Resources to Succeed in Technology
+- 👩‍💻 Empowering women through **[womenintechspace.com](https://womenintechspace.com)**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/Alex-Cia](https://github.com/Alex-Cia)**
+---
 
-- 📝 I regularly write articles on **[womenintechspace.com](womenintechspace.com)**
+### 🛠️ Tech & Tools
 
-- 📫 How to reach me: **womenintechspace@gmail.com**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/>
+</p>
 
-- 😄 Fun fact: **I have a great sense of humor**, or at least I like to think so! 
+---
 
+### 📈 Stats
 
-<br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-cia&layout=compact&theme=default" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-cia&show_icons=true&theme=default" />
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-cia&show_icons=true&locale=en&layout=compact" alt="alex-cia" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-cia&show_icons=true&locale=en" alt="alex-cia" /></p>
+### 📬 Let’s Connect
+
+- 🌐 Portfolio / Projects: [alex-cia.github.io](https://github.com/alex-cia)
+- ✉️ womenintechspace@gmail.com
+- 🌍 [womenintechspace.com](https://womenintechspace.com) – My initiative to support women in tech careers
