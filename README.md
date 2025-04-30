@@ -36,18 +36,6 @@ Today, I work as a **Systems Engineer** with a focus on **AWS, Python, Jenkins, 
 
 ---
 
-### 📈 Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-cia&layout=compact&theme=default" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-cia&show_icons=true&theme=default" />
-</p>
-
----
-
 ### 📬 Let’s Connect
 
 - 🌐 Portfolio / Projects: [alex-cia.github.io](https://github.com/alex-cia)
