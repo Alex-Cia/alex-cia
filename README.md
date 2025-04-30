@@ -16,8 +16,7 @@ Today, I work as a **Systems Engineer** with a focus on **AWS, Python, Jenkins, 
 
 - 🧩 Building a game inspired by **Cognitive Behavioral Therapy (CBT)**
 - ☁️ Preparing for **AWS Solutions Architect Associate**
-- 🧵 Growing **[Women In Tech Space](#)** – by empowering women with Knowledge, Skills, and Resources to Succeed in Technology
-- 👩‍💻 Empowering women through **[womenintechspace.com](https://womenintechspace.com)**
+- 🌐 Running [**womenintechspace.com**](https://womenintechspace.com) — a growing hub for women in tech
 
 ---
 
