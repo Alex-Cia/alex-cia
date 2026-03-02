@@ -41,16 +41,16 @@ My work focuses on infrastructure, automation, and platform engineering — ensu
 ## 🔧 Core Stack
 
 **Cloud & Infrastructure**  
-AWS (IAM, EC2, Lambda, SSM, AMIs, RDS, CloudWatch)
+ - AWS (IAM, EC2, Lambda, SSM, AMIs, RDS, CloudWatch)
 
-**Infrastructure as Code**  
-CloudFormation, Terraform
+ **Infrastructure as Code**  
+ - CloudFormation, Terraform
 
-**DevOps & CI/CD**  
-Jenkins, Docker, GitHub Actions
+ **DevOps & CI/CD**  
+ - Jenkins, Docker, GitHub Actions
 
-**Programming**  
-Python, Bash, SQL
+ **Programming**  
+ - Python, Bash, SQL
 
 ---
 
