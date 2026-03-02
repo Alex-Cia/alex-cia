@@ -1,42 +1,60 @@
 
-<h1 align="center">Hi, I'm Alex 👋</h1>
-<h3 align="center">Systems Engineer | Creative Technologist | Founder of Women in Tech Space</h3>
+<h1 align="center">Alex — Cloud Infrastructure Engineer (AWS)</h1>
+<h3 align="center">I design and scale secure, governed cloud platforms in production environments.
+
+My work focuses on infrastructure, automation, and platform engineering — ensuring systems remain reliable, compliant, and maintainable at scale.</h3>
 <p align="center">
   <img src="https://miro.medium.com/max/4800/1*qdAW1TjCN57h1lbuuzvchg.gif" width="250" alt="coding gif">
 </p>
 
 ---
 
-🚀 I made the leap from finance to tech in 2022 — driven by curiosity, creativity, and a need to build things that make a difference.  
-Today, I work as a **Systems Engineer** with a focus on **AWS, Python, Jenkins, and Infrastructure as Code**, and I’m building tools, games, and communities that reflect both **logic and heart**.
+## ⚙️ What I Do
+
+- Design and implement AWS infrastructure (IAM, AMIs, SSM, Lambda, networking)
+- Build infrastructure as code (CloudFormation / Terraform)
+- Improve CI/CD reliability and deployment consistency
+- Implement platform governance (tagging, cost control, access patterns)
+- Enable data platforms (Spark, Jupyter, developer tooling)
 
 ---
 
-### 🧠 Currently Exploring
+## 📈 Selected Impact
 
-- 🧩 Building a game inspired by **Cognitive Behavioral Therapy (CBT)**
-- ☁️ Preparing for **AWS Solutions Architect Associate**
-- 🌐 Running [**womenintechspace.com**](https://womenintechspace.com) — a growing hub for women in tech
-
----
-
-### 🛠️ Tech & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/>
-</p>
+- Upgraded **59 AWS Lambda functions** (Python 3.7 → 3.12) across production environments  
+- Implemented automated tagging governance across **750+ AWS resources**  
+- Migrated **25+ Jenkins pipelines to Docker**, improving consistency and reliability  
+- Built and deployed **hardened AMIs** across environments  
+- Supported Spark-based data platforms and developer enablement  
 
 ---
 
-### 📬 Let’s Connect
+## 🧠 Engineering Approach
 
-- 🌐 Portfolio / Projects: [alex-cia.github.io](https://github.com/alex-cia)
-- ✉️ womenintechspace@gmail.com
-- 🌍 [womenintechspace.com](https://womenintechspace.com) – My initiative to support women in tech careers
+- Systems thinking over isolated fixes  
+- Automation over manual processes  
+- Long-term maintainability over short-term solutions  
+- Security and governance by design  
+
+---
+
+## 🔧 Core Stack
+
+**Cloud & Infrastructure**  
+AWS (IAM, EC2, Lambda, SSM, AMIs, RDS, CloudWatch)
+
+**Infrastructure as Code**  
+CloudFormation, Terraform
+
+**DevOps & CI/CD**  
+Jenkins, Docker, GitHub Actions
+
+**Programming**  
+Python, Bash, SQL
+
+---
+
+## 📫 Contact
+
+- Portfolio: https://alex-cia.github.io  
+- LinkedIn: https://www.linkedin.com/in/alex-ciapovici/
