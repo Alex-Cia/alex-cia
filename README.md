@@ -31,7 +31,7 @@ My work sits across AWS platform operations, data platform enablement, infrastru
 
 ---
 
-## <img src="https://media.tenor.com/IwxGErroyGAAAAAM/engineer-fixed.gif" align="center" width="68" alt="Trust Me I am an Engineer"> Engineering Principles
+## <img src="https://media.tenor.com/3TU9Vg8Tcj4AAAAM/fixed-understatement.gif" align="center" width="68" alt="Trust Me I am an Engineer"> Engineering Principles
 
 I care about systems that are:
 
