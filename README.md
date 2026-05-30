@@ -1,5 +1,5 @@
 
-<h1 align="center">Alex — Cloud & Data Platform Engineer</h1>
+<h1 align="center">Alex - Cloud & Data Platform Engineer</h1>
 <h3 align="center"> I am focused on improving shared AWS-based platforms used by engineering, analytics, and data teams.
 
 My work sits across AWS platform operations, data platform enablement, infrastructure automation, CI/CD reliability, governance, and developer experience. I started my career in service operations, where every incident was a system to understand. That shaped how I think about infrastructure today: not just as something to deploy, but as something that must remain reliable, maintainable, secure, and usable over time.</h3>
