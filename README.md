@@ -11,12 +11,12 @@ My work sits across AWS platform operations, data platform enablement, infrastru
 
 ## <img src="https://media.tenor.com/FPsODnFH-dEAAAAM/typing-fast.gif" align="center" width="68" alt="Working Cat icon"> What I Work On
 
-- AWS platform operations — Lambda, IAM, S3, RDS, Systems Manager, EC2, AMIs
- - Data platform enablement — Spark, Jupyter, Airflow, Glue, analytics platform support
- - Automation and tooling — Python, Bash, operational scripts, infrastructure workflows
- - CI/CD reliability — Jenkins, Docker-based workloads, GitHub Actions
- - Governance and compliance — tagging standards, access control, cost visibility, platform ownership
- - Developer experience — documentation, reusable patterns, clearer platform workflows
+- AWS platform operations —> Lambda, IAM, S3, RDS, Systems Manager, EC2, AMIs
+ - Data platform enablement —> Spark, Jupyter, Airflow, Glue, analytics platform support
+ - Automation and tooling —> Python, Bash, operational scripts, infrastructure workflows
+ - CI/CD reliability —> Jenkins, Docker-based workloads, GitHub Actions
+ - Governance and compliance —> tagging standards, access control, cost visibility, platform ownership
+ - Developer experience —> documentation, reusable patterns, clearer platform workflows
 
 ---
 
